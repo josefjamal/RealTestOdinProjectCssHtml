@@ -1,0 +1,69 @@
+body { margin: 0px;
+font-family: arial;}
+
+
+.headerlogo {
+    font-size: 24px;
+    margin: 0px;
+    color: #f9faf8;
+    display: inline;
+    font-weight: 700;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.smallheaders {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.headers {
+    display: flex;
+    gap: 30px;
+}
+
+.logobox, .headers {
+ padding-top: 20px;
+}
+
+.firstsection {
+    margin: 0px;
+    background-color: #1f2937;
+   
+}
+
+
+
+.contentandphotos {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+
+.text {display: block;}
+
+h2 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #f9faf8;
+    margin-bottom: 10px;
+}
+
+.hero {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 0px;
+}
+
+button {
+    background-color: #3882f6;
+    border-width: 0px;
+    border-radius: 4px;
+    font-size: 15px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
